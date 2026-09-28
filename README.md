@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/Type-Report+Bot-26A5E4?style=for-the-badge&logo=telegram" />
 </p>
 
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="64" height="64" />
+</p>
+
 **🤖 Telegram Report Bot Free** — automated mass-reporting tool for Telegram. Sends reports to Telegram moderation at scale, fully automated. Download for 2026. **No limits. No hidden fees.**
 
 <p align="center">
